@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkpi_site=self.webpackChunkkpi_site||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/kpi_site/blog","blogTitle":"Blog"}')}}]);
